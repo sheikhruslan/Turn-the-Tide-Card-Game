@@ -9,7 +9,6 @@ Welcome to **Turn the Tide**, a card game simulation implemented in Java. This p
 - [Project Structure](#project-structure)
 - [How to Run](#how-to-run)
 - [Classes and Methods](#classes-and-methods)
-- [Future Improvements](#future-improvements)
 
 ## Introduction
 
